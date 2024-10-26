@@ -1,0 +1,7 @@
+echo "# YS3MI4IKT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kdora2024/YS3MI4IKT.git
+git push -u origin main
